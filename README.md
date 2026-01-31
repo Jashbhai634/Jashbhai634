@@ -11,7 +11,7 @@ Indie game and tech studio focused on building creative, high-performance browse
 
 ### 🌌 Galaxy Jumper
 Endless space runner game  
-🔗 Play: 
+🔗 Play: https://jashbhai634.github.io/Galaxy-Jumper/
 
 ### 🔢 2048 GridX
 Enhanced 2048 puzzle game with custom features  

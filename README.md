@@ -15,7 +15,7 @@ Endless space runner game
 
 ### 🔢 2048 GridX
 Enhanced 2048 puzzle game with custom features  
-🔗 Play: 
+🔗 Play: https://jashbhai634.github.io/2048-GridX/
 ## 🛠 Tech Stack
 - HTML5
 - CSS3

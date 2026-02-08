@@ -16,6 +16,10 @@ Endless space runner game
 ### 🔢 2048 GridX
 Enhanced 2048 puzzle game with custom features  
 🔗 Play: https://jashbhai634.github.io/2048-GridX/
+### ⭕❌ Neon Grid
+Adbanced Tic-tac-toe game with feautured and ultimate mode 
+🔗 Play:
+https://jashbhai634.github.io/neon-grid/
 ## 🛠 Tech Stack
 - HTML5
 - CSS3

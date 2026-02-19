@@ -20,7 +20,7 @@ Enhanced 2048 puzzle game with custom features
 ### ⭕❌ Neon Grid
 Advanced Tic-tac-toe game with feautured and ultimate mode 
 🔗 Play:
-https://jashbhai634.github.io/neon-grid/
+https://jashbhai634.github.io/Neon-Grid/
 
 ## 🛠 Tech Stack
 - HTML5

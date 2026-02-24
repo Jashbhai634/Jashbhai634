@@ -1,3 +1,4 @@
+![Game Logo](logo.png)
 # CodeMatrix Studio 🚀
 
 Indie game and tech studio focused on building creative, high-performance browser and mobile games. We craft engaging gameplay experiences using modern web technologies, with a strong focus on clean code, smooth performance, and innovative design.

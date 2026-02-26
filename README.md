@@ -30,16 +30,19 @@ Endless space runner game
 🔗 Play: https://jashbhai634.github.io/Galaxy-Jumper/
 
 ### 🔢 2048 GridX
-Enhanced 2048 puzzle game with custom features  
+Enhanced 2048 puzzle game with custom features
+  
 🔗 Play: https://jashbhai634.github.io/2048-GridX/
 
 ### ⭕❌ Neon Grid
 Advanced Tic-tac-toe game with feautured and ultimate mode 
+
 🔗 Play:
 https://jashbhai634.github.io/Neon-Grid/
 
 ### 🖌️ Harmony Hues
 An advanced colouring and painting app with Mandala engine
+
 🔗 Play:
 https://jashbhai634.github.io/Harmony-Hues/
 

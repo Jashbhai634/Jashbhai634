@@ -1,5 +1,5 @@
 ![Game Logo](logo.png)
-# CodeMatrix Studio 🚀
+# CodeMatrix Studio 
 
 'Benchmarked for brilliance'
 

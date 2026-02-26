@@ -2,6 +2,7 @@
 # CodeMatrix Studio 🚀
 
 'Benchmarked for brilliance'
+
 Indie game and tech studio focused on building creative, high-performance browser and mobile games. We craft engaging gameplay experiences using modern web technologies, with a strong focus on clean code, smooth performance, and innovative design.
 
 This repository represents more than just projects — it reflects ambition, experimentation, and continuous evolution. Every line of code here is written with intention, every design decision carries thought, and every release pushes the standard a little higher.
